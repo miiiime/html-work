@@ -1,0 +1,60 @@
+/* h1{
+    color: white;
+    padding: 5px;
+} */
+
+table{
+    color:dimgrey;
+}
+
+body{
+    background-color:cornsilk;
+}
+
+thead{
+    color:white;
+    background-color:tan;
+    text-align: center;
+}
+
+tbody{
+    text-align: center;
+    
+}
+
+.mori_s{
+    background-color:springgreen;
+    color: white;
+    padding: 5px;
+}
+
+.shitonai_s{
+    background-color:rgb(202, 90, 230);
+    color: white;
+    padding: 5px;
+}
+.ime_s{
+    background-color:coral;
+    color: white;
+    padding: 5px;
+}
+.eeneed_s{
+    background-color:violet;
+    color: white;
+    padding: 5px;
+}
+._s{
+    background-color:white;
+    color: white;
+    padding: 5px;
+}
+
+.mori_i{
+    border-radius: 10px;
+    width:320px;
+    height:206px;
+}
+
+#mori{
+    background-color: palegreen;
+}
